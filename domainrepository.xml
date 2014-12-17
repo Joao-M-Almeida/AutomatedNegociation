@@ -14,7 +14,10 @@
                 <profile url="file:etc/templates/partydomain/party7_utility.xml"/>
                 <profile url="file:etc/templates/partydomain/party8_utility.xml"/>
                 <profile url="file:etc/templates/partydomain/party9_utility.xml"/>
-            </domainRepItem>            
+            </domainRepItem>
+            <domainRepItem url="file:etc/templates/TestDomain/TestDomain.xml">
+                <profile url="file:etc/templates/TestDomain/TestDomain_util1.xml"/>
+            </domainRepItem>
         </domainRepItem>
         <protocolRepItem/>
         <multiPartyProtocolRepItem/>
